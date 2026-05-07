@@ -1,0 +1,26 @@
+{
+  "BASE_DIR": "/home/engineer00/winworkspace/PTTEP/AnalogGaugeReading/ocr",
+  "TRAIN_PATH": "/home/engineer00/winworkspace/PTTEP/AnalogGaugeReading/ocr/dataset/format_scale_number_ocr_dataset/train",
+  "VAL_PATH": "/home/engineer00/winworkspace/PTTEP/AnalogGaugeReading/ocr/dataset/format_scale_number_ocr_dataset/val",
+  "OUTPUT_DIR": "/home/engineer00/winworkspace/PTTEP/AnalogGaugeReading/ocr/code/doctr_ocr_train/model_analog_gauge",
+  "MODEL_ARCH": "parseq",
+  "PRETRAINED": true,
+  "EPOCHS": 150,
+  "BATCH_SIZE": 64,
+  "LEARNING_RATE": 0.0007,
+  "WEIGHT_DECAY": 0.0005,
+  "WORKERS": 8,
+  "SCHEDULER": "onecycle",
+  "INPUT_SIZE": [
+    32,
+    128
+  ],
+  "PATIENCE": 20,
+  "AMP": true,
+  "BACKEND": "nccl",
+  "LOG_INTERVAL": 50,
+  "SAVE_EVERY": 10,
+  "LOG_PREDICTIONS_EVERY": 5,
+  "NUM_SAMPLE_PREDICTIONS": 20,
+  "vocab": " %./0123456789ABCFGHIKLMNOPRSW\\abcfghiklmnpqrsx\u00b0\u00b2\u0e08"
+}

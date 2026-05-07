@@ -1,0 +1,26 @@
+name: "segmentation"
+platform: "pytorch_libtorch"
+max_batch_size: 1
+input [
+  {
+    name: "images"
+    data_type: TYPE_FP32
+    dims: [ 3, 640, 640 ]
+  }
+]
+output [
+  {
+    name: "output0"
+    data_type: TYPE_FP32
+    dims: [ 1, 116, 8400 ]
+  },
+  {
+    name: "output1"
+    data_type: TYPE_FP32
+    dims: [ 1, 32, 8400 ]
+  }
+]
+dynamic_batching {
+  preferred_batch_size: 1
+  max_queue_delay_microseconds: 100
+}

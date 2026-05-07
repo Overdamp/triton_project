@@ -1,0 +1,21 @@
+name: "ocr"
+platform: "pytorch_libtorch"
+max_batch_size: 1
+input [
+  {
+    name: "input"
+    data_type: TYPE_FP32
+    dims: [ 3, 32, 128 ]
+  }
+]
+output [
+  {
+    name: "output"
+    data_type: TYPE_FP32
+    dims: [ 1, 38, 128 ]
+  }
+]
+dynamic_batching {
+  preferred_batch_size: 1
+  max_queue_delay_microseconds: 100
+}

@@ -1,0 +1,32 @@
+system:
+  log_level: "INFO"          
+  log_file: "logs/analog_system.log"
+
+analog_gauge:
+  device: "cuda" 
+  use_triton: false                    # true/false - use Triton Inference Server
+  triton_url: "localhost:8000"         # Triton server URL
+  ocr_model_dir: "models/analog_gauge_model/ocr"  
+  segmentation:
+    model_path: "models/analog_gauge_model/segmentation/best_segment_v2.pt"     # best_seg_analog_1.pt
+    conf: 0.5
+    iou: 0.5
+    verbose: False
+  superresolution: 
+    model_name: "caidas/swin2SR-lightweight-x2-64" #"caidas/swin2SR-classical-sr-x2-64" #
+    
+  debug:
+    enabled: true                    # on/off debug report
+    output_dir: "debug_output"       # folder store debug images
+
+Debug report:
+  Panel 1: Original Input
+  Panel 2: Segmentation Overlay (color-coded by class)
+  Panel 3: Ellipse Fitting (ellipses + centers)
+  Panel 4: OCR Crops + Detected Text
+  Panel 5: Needle Selection (anti-shadow scoring)
+  Panel 6: Calibration Plot (angle vs value linear fit)
+  Panel 7: Radius Analysis (dual-scale detection)
+  Panel 8: Final Result with status
+
+Output files: debug_output/debug_{filename}.jpg

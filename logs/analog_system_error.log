@@ -1,0 +1,89 @@
+2026-04-21 15:19:00 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'imwrite'
+> Overload resolution failed:
+>  - imwrite() missing required argument 'filename' (pos 1)
+>  - imwrite() missing required argument 'filename' (pos 1)
+
+2026-04-21 15:19:00 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'imwrite'
+> Overload resolution failed:
+>  - imwrite() missing required argument 'filename' (pos 1)
+>  - imwrite() missing required argument 'filename' (pos 1)
+
+2026-04-21 15:19:01 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'imwrite'
+> Overload resolution failed:
+>  - imwrite() missing required argument 'filename' (pos 1)
+>  - imwrite() missing required argument 'filename' (pos 1)
+
+2026-04-21 15:19:02 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'imwrite'
+> Overload resolution failed:
+>  - imwrite() missing required argument 'filename' (pos 1)
+>  - imwrite() missing required argument 'filename' (pos 1)
+
+2026-04-21 15:19:03 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: OpenCV(4.12.0) :-1: error: (-5:Bad argument) in function 'imwrite'
+> Overload resolution failed:
+>  - imwrite() missing required argument 'filename' (pos 1)
+>  - imwrite() missing required argument 'filename' (pos 1)
+
+2026-04-21 15:27:55 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:27:56 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:27:56 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:27:57 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:27:58 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:27:59 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:00 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:01 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:01 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:02 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:02 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:04 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:04 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:05 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:05 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:06 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:07 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:07 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:08 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:09 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:09 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:10 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:10 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:11 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:11 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:12 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:13 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:14 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:14 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:15 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:15 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:16 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:17 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:17 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:17 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:18 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:18 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:19 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:20 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:20 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:21 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:21 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:22 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:23 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:23 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:24 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:24 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:25 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:26 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:26 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:27 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:28 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:28 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:29 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:30 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:30 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:31 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:31 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:32 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:32 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:33 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:33 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-21 15:28:34 | ERROR    | AIPipeline | analog_gauge_task.py:131 | [AnalogGaugeTask] Error: module 'cv2' has no attribute 'BGR2GRAY'
+2026-04-22 16:27:21 | ERROR    | AIPipeline | analog_gauge_task.py:58 | [AnalogGaugeTask] Failed to load DoctrOCR: Config not found at models/analog_gauge_model/ocr/config.json
